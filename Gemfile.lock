@@ -44,7 +44,6 @@ GEM
       eventmachine (~> 1.0.0)
       nats (= 0.4.26)
       vcap-concurrency
-      vcap-concurrency
       yajl-ruby
     cookiejar (0.3.0)
     daemons (1.1.9)
@@ -94,7 +93,7 @@ GEM
       json_pure (>= 1.7.3)
       thin (>= 1.4.1)
     posix-spawn (0.3.6)
-    rack (1.5.2)
+    rack (1.6.13)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-mount (0.8.3)
